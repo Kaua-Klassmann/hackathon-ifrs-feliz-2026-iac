@@ -1,0 +1,17 @@
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
+*.tfvars.json
+*.tfplan
+tfplan
+plan-output.txt
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.DS_Store
+.headroom/
+.serena/
+.superpowers/
